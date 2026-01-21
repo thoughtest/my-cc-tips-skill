@@ -1,0 +1,3 @@
+[submodule "references/everything-claude-code"]
+	path = references/everything-claude-code
+	url = https://github.com/affaan-m/everything-claude-code.git
