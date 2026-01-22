@@ -8,7 +8,7 @@ Claude Code skill that references the Claude Code best practice repository (subm
 2. Clone this repository into that directory with submodules:
 
 ```bash
-git clone --recursive https://github.com/mjaemin/my-cc-tips-skill.git ~/.claude/skills/cc-tips
+git clone --recursive https://github.com/thoughtest/my-cc-tips-skill.git ~/.claude/skills/cc-tips
 ```
 
 The project root must live under `~/.claude/skills` so Claude Code can detect the skill.
